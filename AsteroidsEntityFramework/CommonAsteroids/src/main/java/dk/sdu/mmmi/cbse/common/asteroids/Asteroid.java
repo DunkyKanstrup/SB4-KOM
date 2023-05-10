@@ -1,4 +1,7 @@
 package dk.sdu.mmmi.cbse.common.asteroids;
 
-public class Asteroid {
+import dk.sdu.mmmi.cbse.common.data.Entity;
+
+
+public class Asteroid extends Entity {
 }

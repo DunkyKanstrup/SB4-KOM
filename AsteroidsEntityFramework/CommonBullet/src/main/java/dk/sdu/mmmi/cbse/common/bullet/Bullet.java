@@ -1,4 +1,6 @@
 package dk.sdu.mmmi.cbse.common.bullet;
 
-public class Bullet {
+import dk.sdu.mmmi.cbse.common.data.Entity;
+
+public class Bullet extends Entity {
 }
